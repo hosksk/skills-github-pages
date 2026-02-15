@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: 제이디자인 홈페이지!
 ---
